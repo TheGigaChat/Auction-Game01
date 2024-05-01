@@ -473,7 +473,7 @@ function TeamCreation({
 
           <a
             href="#page3"
-            className="teamFinishButton displayNone"
+            className="teamFinishButton displayNone navButton"
             id="buttonToPage3"
           >
             Start

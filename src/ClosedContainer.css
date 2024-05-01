@@ -20,7 +20,8 @@
 .container section {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: center;
+  width: 1620px;
 }
 
 .container section .button {
@@ -32,6 +33,8 @@
   border-radius: 4px;
   padding: 0.5rem 1rem;
   text-decoration: none;
+
+  align-self: flex-end;
 }
 
 .container section .button:hover {

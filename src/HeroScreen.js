@@ -177,7 +177,7 @@ function HeroScreen({
           <div className="nickname"></div>
         </section>
         <section>
-          <a href="#page2" className="heroFinishButton">
+          <a href="#page2" className="heroFinishButton navButton">
             START
           </a>
         </section>

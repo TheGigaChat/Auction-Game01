@@ -32,8 +32,8 @@ function Description({ containerNum, setEnd }) {
   return (
     <section
       style={{
-        height: 1000,
-        width: 800,
+        height: 800,
+        width: 1000,
         backgroundColor: "transparent",
         display: "flex",
         flexDirection: "column",
