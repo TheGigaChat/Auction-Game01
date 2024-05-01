@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Auction-Game01/static/css/main.9bc7b942.css",
-    "main.js": "/Auction-Game01/static/js/main.e20a35d9.js",
+    "main.css": "/Auction-Game01/static/css/main.79cf4a2d.css",
+    "main.js": "/Auction-Game01/static/js/main.50c7eae2.js",
     "static/media/HeroImg.png": "/Auction-Game01/static/media/HeroImg.2b88c4819e8501047ba6.png",
     "static/media/garage_door1.png": "/Auction-Game01/static/media/garage_door1.1f5d82eba48dd6492c54.png",
     "static/media/sneakers.png": "/Auction-Game01/static/media/sneakers.d0ff25f71ec0e3270e3e.png",
@@ -109,11 +109,11 @@
     "static/media/electricScooter.png": "/Auction-Game01/static/media/electricScooter.335003e967f664036993.png",
     "static/media/garage_door2.webp": "/Auction-Game01/static/media/garage_door2.a717029baa1ca24c3168.webp",
     "index.html": "/Auction-Game01/index.html",
-    "main.9bc7b942.css.map": "/Auction-Game01/static/css/main.9bc7b942.css.map",
-    "main.e20a35d9.js.map": "/Auction-Game01/static/js/main.e20a35d9.js.map"
+    "main.79cf4a2d.css.map": "/Auction-Game01/static/css/main.79cf4a2d.css.map",
+    "main.50c7eae2.js.map": "/Auction-Game01/static/js/main.50c7eae2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bc7b942.css",
-    "static/js/main.e20a35d9.js"
+    "static/css/main.79cf4a2d.css",
+    "static/js/main.50c7eae2.js"
   ]
 }
