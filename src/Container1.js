@@ -146,7 +146,7 @@ function Container1({
       <section className="wrapDefault" id="wrapDefault">
         <section className="auctionPropsDefault" id="auctionPropsDefault">
           <p className="step" id="step">
-            step: "100"
+            шаг: "100"
           </p>
           <div className="teamName" id="teamName">
             "teamName"
@@ -155,7 +155,7 @@ function Container1({
             "Timer"
           </p>
           <p className="curPrice" id="price">
-            price: "200"
+            цена: "200"
           </p>
         </section>
         <section className="team1-3Default" id="team1-3Default">

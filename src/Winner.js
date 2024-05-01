@@ -577,7 +577,7 @@ function Winner({
     <section className="containerWinner" id="containerWinner">
       <section className="auctionPropsWinner" id="auctionPropsWinner">
         <p className="step" id="step">
-          Auction price: {curPrice}
+          Цена покупки: {curPrice}
         </p>
         <div className="teamName" id="teamNameWinner">
           Winner: {teamName}
@@ -586,7 +586,7 @@ function Winner({
           timer don't have to appear
         </p>
         <p className="curPrice" id="price" style={{ color: "lightgreen" }}>
-          Container price: {containerPrice}
+          Цена контейнера: {containerPrice}
         </p>
       </section>
       <section className="team1-3Winner" id="team1-3Winner">

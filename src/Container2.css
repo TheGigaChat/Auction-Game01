@@ -4,7 +4,7 @@
 
 .bagSection {
   position: absolute;
-  top: 410px;
+  top: 460px;
   left: 100px;
 
   display: flex;
@@ -25,7 +25,7 @@
 
 .luggageSection {
   position: absolute;
-  top: 370px;
+  top: 420px;
   left: 450px;
 
   display: flex;
@@ -46,7 +46,7 @@
 
 .newBalanceSection {
   position: absolute;
-  top: 550px;
+  top: 600px;
   left: 440px;
 
   display: flex;
@@ -67,7 +67,7 @@
 
 .saintLaurentSection {
   position: absolute;
-  top: 500px;
+  top: 550px;
   left: 650px;
 
   display: flex;
@@ -88,7 +88,7 @@
 
 .caramelSection {
   position: absolute;
-  top: 400px;
+  top: 470px;
   left: 650px;
 
   display: flex;
@@ -109,7 +109,7 @@
 
 .sneakersSection {
   position: absolute;
-  top: 500px;
+  top: 565px;
   left: 250px;
 
   display: flex;
@@ -130,7 +130,7 @@
 
 .glassesSection {
   position: absolute;
-  top: 600px;
+  top: 700px;
   left: 150px;
 
   display: flex;
@@ -155,7 +155,7 @@
 
 .guitarSection {
   position: absolute;
-  top: 270px;
+  top: 330px;
   left: 150px;
 
   display: flex;
@@ -176,7 +176,7 @@
 
 .audioSection {
   position: absolute;
-  top: 550px;
+  top: 600px;
   left: 20px;
 
   display: flex;
@@ -197,7 +197,7 @@
 
 .drumsSection {
   position: absolute;
-  top: 320px;
+  top: 370px;
   left: 520px;
 
   display: flex;
@@ -218,7 +218,7 @@
 
 .stringSection {
   position: absolute;
-  top: 300px;
+  top: 360px;
   left: 320px;
 
   display: flex;
@@ -239,7 +239,7 @@
 
 .pianoSection {
   position: absolute;
-  top: 330px;
+  top: 380px;
   left: 110px;
 
   display: flex;
@@ -260,8 +260,8 @@
 
 .midiSection {
   position: absolute;
-  top: 690px;
-  left: 710px;
+  top: 770px;
+  left: 500px;
 
   display: flex;
   justify-content: center;
@@ -281,7 +281,7 @@
 
 .lightSection {
   position: absolute;
-  top: 570px;
+  top: 620px;
   left: 400px;
 
   display: flex;
@@ -306,7 +306,7 @@
 
 .cardioSection {
   position: absolute;
-  top: 210px;
+  top: 270px;
   left: 100px;
 
   display: flex;
@@ -327,7 +327,7 @@
 
 .runSection {
   position: absolute;
-  top: 320px;
+  top: 380px;
   left: 310px;
 
   display: flex;
@@ -348,7 +348,7 @@
 
 .dumbbellsSection {
   position: absolute;
-  top: 660px;
+  top: 720px;
   left: 570px;
 
   display: flex;
@@ -371,7 +371,7 @@
 
 .benchSection {
   position: absolute;
-  top: 360px;
+  top: 420px;
   left: 600px;
 
   display: flex;
@@ -392,7 +392,7 @@
 
 .gymSection {
   position: absolute;
-  top: 350px;
+  top: 420px;
   left: 40px;
 
   display: flex;
@@ -415,7 +415,7 @@
 
 .ballSection {
   position: absolute;
-  top: 530px;
+  top: 580px;
   left: -20px;
 
   display: flex;
@@ -436,7 +436,7 @@
 
 .barbellSection {
   position: absolute;
-  top: 610px;
+  top: 660px;
   left: -150px;
 
   display: flex;
@@ -463,7 +463,7 @@
 
 .akuSection {
   position: absolute;
-  top: 460px;
+  top: 510px;
   left: 50px;
 
   display: flex;
@@ -484,7 +484,7 @@
 
 .generatorSection {
   position: absolute;
-  top: 470px;
+  top: 520px;
   left: 550px;
 
   display: flex;
@@ -505,7 +505,7 @@
 
 .sawSection {
   position: absolute;
-  top: 380px;
+  top: 430px;
   left: 0px;
 
   display: flex;
@@ -528,7 +528,7 @@
 
 .lightWorkSection {
   position: absolute;
-  top: 560px;
+  top: 620px;
   left: 500px;
 
   display: flex;
@@ -551,7 +551,7 @@
 
 .gardenSection {
   position: absolute;
-  top: 490px;
+  top: 550px;
   left: 300px;
 
   display: flex;
@@ -572,7 +572,7 @@
 
 .radioSection {
   position: absolute;
-  top: 610px;
+  top: 670px;
   left: 710px;
 
   display: flex;
@@ -593,7 +593,7 @@
 
 .colorSection {
   position: absolute;
-  top: 460px;
+  top: 520px;
   left: 300px;
 
   display: flex;
@@ -620,8 +620,8 @@
 
 .babyChairSection {
   position: absolute;
-  top: 350px;
-  left: 50px;
+  top: 400px;
+  left: 10px;
 
   display: flex;
   justify-content: center;
@@ -641,7 +641,7 @@
 
 .babyBathSection {
   position: absolute;
-  top: 370px;
+  top: 420px;
   left: 550px;
 
   display: flex;
@@ -662,7 +662,7 @@
 
 .babyCarSection {
   position: absolute;
-  top: 390px;
+  top: 440px;
   left: 650px;
 
   display: flex;
@@ -683,7 +683,7 @@
 
 .babyTrendSection {
   position: absolute;
-  top: 460px;
+  top: 510px;
   left: -90px;
 
   display: flex;
@@ -704,7 +704,7 @@
 
 .playardSection {
   position: absolute;
-  top: 470px;
+  top: 500px;
   left: 250px;
 
   display: flex;
@@ -725,8 +725,8 @@
 
 .duploSection {
   position: absolute;
-  top: 610px;
-  left: 900px;
+  top: 710px;
+  left: 650px;
 
   display: flex;
   justify-content: center;
@@ -748,8 +748,8 @@
 
 .raceCarSection {
   position: absolute;
-  top: 700px;
-  left: 200px;
+  top: 750px;
+  left: 210px;
 
   display: flex;
   justify-content: center;
@@ -773,7 +773,7 @@
 
 .antiquePaintSection {
   position: absolute;
-  top: 350px;
+  top: 420px;
   left: 50px;
 
   display: flex;
@@ -794,7 +794,7 @@
 
 .antiqueChairSection {
   position: absolute;
-  top: 400px;
+  top: 450px;
   left: 500px;
 
   display: flex;
@@ -817,7 +817,7 @@
 
 .antiqueClockSection {
   position: absolute;
-  top: 255px;
+  top: 315px;
   left: 350px;
 
   display: flex;
@@ -838,7 +838,7 @@
 
 .antiqueSculptureSection {
   position: absolute;
-  top: 480px;
+  top: 530px;
   left: 150px;
 
   display: flex;
@@ -859,7 +859,7 @@
 
 .antiqueVaseSection {
   position: absolute;
-  top: 530px;
+  top: 590px;
   left: 0px;
 
   display: flex;
@@ -880,8 +880,8 @@
 
 .antiqueLampSection {
   position: absolute;
-  top: 490px;
-  left: 640px;
+  top: 550px;
+  left: 630px;
 
   display: flex;
   justify-content: center;
@@ -903,7 +903,7 @@
 
 .antiqueSofaSection {
   position: absolute;
-  top: 440px;
+  top: 500px;
   left: 230px;
 
   display: flex;
@@ -930,7 +930,7 @@
 
 .iphone15Section {
   position: absolute;
-  top: 520px;
+  top: 570px;
   left: 350px;
 
   display: flex;
@@ -951,7 +951,7 @@
 
 .electricScooterSection {
   position: absolute;
-  top: 350px;
+  top: 410px;
   left: 550px;
 
   display: flex;
@@ -972,7 +972,7 @@
 
 .christmasTreeSection {
   position: absolute;
-  top: 180px;
+  top: 230px;
   left: 265px;
 
   display: flex;
@@ -993,7 +993,7 @@
 
 .gamingChairSection {
   position: absolute;
-  top: 260px;
+  top: 320px;
   left: 75px;
 
   display: flex;
@@ -1014,7 +1014,7 @@
 
 .PS5Section {
   position: absolute;
-  top: 490px;
+  top: 550px;
   left: 475px;
 
   display: flex;
@@ -1035,7 +1035,7 @@
 
 .moetSection {
   position: absolute;
-  top: 580px;
+  top: 640px;
   left: 575px;
 
   display: flex;
@@ -1056,7 +1056,7 @@
 
 .winterScarfSection {
   position: absolute;
-  top: 630px;
+  top: 680px;
   left: 375px;
 
   display: flex;
@@ -1081,7 +1081,7 @@
 
 .huntingGunSection {
   position: absolute;
-  top: 350px;
+  top: 420px;
   left: 50px;
 
   display: flex;
@@ -1102,7 +1102,7 @@
 
 .tentSection {
   position: absolute;
-  top: 120px;
+  top: 180px;
   left: 50px;
 
   display: flex;
@@ -1123,7 +1123,7 @@
 
 .footwearSection {
   position: absolute;
-  top: 570px;
+  top: 620px;
   left: 690px;
 
   display: flex;
@@ -1144,7 +1144,7 @@
 
 .satteliteComunicatorSection {
   position: absolute;
-  top: 590px;
+  top: 650px;
   left: 300px;
 
   display: flex;
@@ -1165,7 +1165,7 @@
 
 .headLampSection {
   position: absolute;
-  top: 630px;
+  top: 680px;
   left: 100px;
 
   display: flex;
@@ -1186,7 +1186,7 @@
 
 .handleLampSection {
   position: absolute;
-  top: 630px;
+  top: 680px;
   left: 430px;
 
   display: flex;
@@ -1207,7 +1207,7 @@
 
 .huntingBackpackSection {
   position: absolute;
-  top: 530px;
+  top: 580px;
   left: 430px;
 
   display: flex;
@@ -1232,7 +1232,7 @@
 
 .printerSection {
   position: absolute;
-  top: 470px;
+  top: 530px;
   left: 410px;
 
   display: flex;
@@ -1253,7 +1253,7 @@
 
 .gamingTable1Section {
   position: absolute;
-  top: 320px;
+  top: 380px;
   left: 500px;
 
   display: flex;
@@ -1274,7 +1274,7 @@
 
 .laptop1Section {
   position: absolute;
-  top: 350px;
+  top: 410px;
   left: 660px;
 
   display: flex;
@@ -1296,7 +1296,7 @@
 
 .markerBoardSection {
   position: absolute;
-  top: 230px;
+  top: 290px;
   left: 170px;
 
   display: flex;
@@ -1317,7 +1317,7 @@
 
 .gamingTable2Section {
   position: absolute;
-  top: 390px;
+  top: 450px;
   left: -130px;
 
   display: flex;
@@ -1338,7 +1338,7 @@
 
 .laptop2Section {
   position: absolute;
-  top: 390px;
+  top: 450px;
   left: 20px;
 
   display: flex;
@@ -1360,7 +1360,7 @@
 
 .wifiRuuterSection {
   position: absolute;
-  top: 400px;
+  top: 460px;
   left: 550px;
 
   display: flex;
@@ -1385,7 +1385,7 @@
 
 .oldMirrorSection {
   position: absolute;
-  top: 460px;
+  top: 520px;
   left: 200px;
 
   display: flex;
@@ -1406,8 +1406,8 @@
 
 .oldBedSection {
   position: absolute;
-  top: 260px;
-  left: 310px;
+  top: 330px;
+  left: 300px;
 
   display: flex;
   justify-content: center;
@@ -1417,7 +1417,7 @@
 
 .oldBedSection img,
 #oldBedImg {
-  width: 700px;
+  width: 680px;
 }
 
 :where(.oldBedSection p) {
@@ -1427,7 +1427,7 @@
 
 .oldWardrobeSection {
   position: absolute;
-  top: 170px;
+  top: 220px;
   left: 380px;
 
   display: flex;
@@ -1450,7 +1450,7 @@
 
 .oldKummutSection {
   position: absolute;
-  top: 410px;
+  top: 470px;
   left: -150px;
 
   display: flex;
@@ -1471,7 +1471,7 @@
 
 .oldPinguinSection {
   position: absolute;
-  top: 370px;
+  top: 430px;
   left: 600px;
 
   display: flex;
@@ -1492,7 +1492,7 @@
 
 .oldChairSection {
   position: absolute;
-  top: 380px;
+  top: 440px;
   left: 0px;
 
   display: flex;
@@ -1513,7 +1513,7 @@
 
 .oldTableSection {
   position: absolute;
-  top: 380px;
+  top: 450px;
   left: -150px;
 
   display: flex;
@@ -1538,7 +1538,7 @@
 
 .motoHerculesSection {
   position: absolute;
-  top: 120px;
+  top: 180px;
   left: 150px;
 
   display: flex;
@@ -1559,7 +1559,7 @@
 
 .motoCoverSection {
   position: absolute;
-  top: 85px;
+  top: 145px;
   left: 150px;
 
   display: flex;
@@ -1581,8 +1581,8 @@
 
 .helmetSection {
   position: absolute;
-  top: 530px;
-  left: 50px;
+  top: 590px;
+  left: 0px;
 
   display: flex;
   justify-content: center;
@@ -1603,7 +1603,7 @@
 
 .motoJacketSection {
   position: absolute;
-  top: 390px;
+  top: 450px;
   left: 760px;
 
   display: flex;
@@ -1626,7 +1626,7 @@
 
 .motoClovesSection {
   position: absolute;
-  top: 620px;
+  top: 680px;
   left: 420px;
 
   display: flex;
@@ -1647,7 +1647,7 @@
 
 .motoEngineSection {
   position: absolute;
-  top: 620px;
+  top: 660px;
   left: 80px;
 
   display: flex;
@@ -1673,7 +1673,7 @@
 
 .massageChairSection {
   position: absolute;
-  top: 320px;
+  top: 380px;
   left: 620px;
 
   display: flex;
@@ -1696,7 +1696,7 @@
 
 .cartSection {
   position: absolute;
-  top: 290px;
+  top: 370px;
   left: 0px;
 
   display: flex;
@@ -1717,7 +1717,7 @@
 
 .gipsSection {
   position: absolute;
-  top: 450px;
+  top: 510px;
   left: 300px;
 
   display: flex;
@@ -1738,7 +1738,7 @@
 
 .crpSection {
   position: absolute;
-  top: 390px;
+  top: 450px;
   left: 500px;
 
   display: flex;
@@ -1759,7 +1759,7 @@
 
 .handleMassagerSection {
   position: absolute;
-  top: 620px;
+  top: 680px;
   left: 400px;
 
   display: flex;
@@ -1781,8 +1781,8 @@
 
 .caneSection {
   position: absolute;
-  top: 270px;
-  left: -70px;
+  top: 330px;
+  left: -40px;
 
   display: flex;
   justify-content: center;
@@ -1802,7 +1802,7 @@
 
 .pulceSection {
   position: absolute;
-  top: 660px;
+  top: 750px;
   left: 0px;
 
   display: flex;
@@ -1828,7 +1828,7 @@
 
 .houseCoolerSection {
   position: absolute;
-  top: 350px;
+  top: 430px;
   left: 620px;
 
   display: flex;
@@ -1849,7 +1849,7 @@
 
 .houseRefrigeratorSection {
   position: absolute;
-  top: 40px;
+  top: 100px;
   left: 0px;
 
   display: flex;
@@ -1870,7 +1870,7 @@
 
 .houseTVSection {
   position: absolute;
-  top: 340px;
+  top: 400px;
   left: 20px;
 
   display: flex;
@@ -1891,7 +1891,7 @@
 
 .houseCoffeeSection {
   position: absolute;
-  top: 600px;
+  top: 660px;
   left: 280px;
 
   display: flex;
@@ -1912,7 +1912,7 @@
 
 .houseKnifeSection {
   position: absolute;
-  top: 620px;
+  top: 670px;
   left: 0px;
 
   display: flex;
@@ -1933,7 +1933,7 @@
 
 .houseRobotSection {
   position: absolute;
-  top: 570px;
+  top: 630px;
   left: 450px;
 
   display: flex;
@@ -1958,7 +1958,7 @@
 
 .maximaRefSection {
   position: absolute;
-  top: 270px;
+  top: 330px;
   left: 500px;
 
   display: flex;
@@ -1979,7 +1979,7 @@
 
 .IceCubeMakerSection {
   position: absolute;
-  top: 330px;
+  top: 390px;
   left: 0px;
 
   display: flex;
@@ -2000,7 +2000,7 @@
 
 .frySection {
   position: absolute;
-  top: 420px;
+  top: 480px;
   left: 200px;
 
   display: flex;
@@ -2021,7 +2021,7 @@
 
 .donutMakerSection {
   position: absolute;
-  top: 470px;
+  top: 530px;
   left: 600px;
 
   display: flex;
@@ -2042,7 +2042,7 @@
 
 .hotDogHeaterSection {
   position: absolute;
-  top: 470px;
+  top: 530px;
   left: -150px;
 
   display: flex;
@@ -2063,7 +2063,7 @@
 
 .soupSection {
   position: absolute;
-  top: 470px;
+  top: 530px;
   left: 420px;
 
   display: flex;
@@ -2084,7 +2084,7 @@
 
 .sausageFillerSection {
   position: absolute;
-  top: 530px;
+  top: 590px;
   left: 10px;
 
   display: flex;

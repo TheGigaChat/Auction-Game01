@@ -196,7 +196,7 @@
 
 .blenderSection {
   position: absolute;
-  top: 500px;
+  top: 590px;
   left: 240px;
 
   display: flex;
@@ -219,7 +219,7 @@
 
 .coffeeSection {
   position: absolute;
-  top: 420px;
+  top: 460px;
   left: 480px;
 
   display: flex;
@@ -240,7 +240,7 @@
 
 .icecreamSection {
   position: absolute;
-  top: 600px;
+  top: 660px;
   left: 70px;
 
   display: flex;
@@ -263,7 +263,7 @@
 
 .juiceSection {
   position: absolute;
-  top: 450px;
+  top: 480px;
   left: 600px;
 
   display: flex;
@@ -284,7 +284,7 @@
 
 .microwaveSection {
   position: absolute;
-  top: 480px;
+  top: 530px;
   left: 20px;
 
   display: flex;
@@ -305,7 +305,7 @@
 
 .popcornSection {
   position: absolute;
-  top: 380px;
+  top: 430px;
   left: 320px;
   z-index: 1;
 
@@ -326,7 +326,7 @@
 }
 .tosterSection {
   position: absolute;
-  top: 550px;
+  top: 580px;
   left: 420px;
 
   display: flex;

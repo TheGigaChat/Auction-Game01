@@ -30,7 +30,7 @@ function App() {
   const [curPrice, setCurPrice] = useState(200);
   const [containerPrice, setContainerPrice] = useState(0);
   const [itemPrice, setItemPrice] = useState(0);
-  const [countdown, setCountdown] = useState(5);
+  const [countdown, setCountdown] = useState(6);
   const [containerNum, setContainerNum] = useState(1);
 
   const [team1hook, setTeam1hook] = useState([

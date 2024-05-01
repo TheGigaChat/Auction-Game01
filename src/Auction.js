@@ -53,7 +53,7 @@ function Auction({
       }, 3000);
     } else {
       setTeamName(currentTeamName);
-      setCountdown(5);
+      setCountdown(6);
       setTimerActiv(true);
       setCurPrice(curPrice + step);
     }
@@ -62,8 +62,10 @@ function Auction({
   /* timer */
   /* timer */
   /* timer */
-  const timer = ["00:05"];
-  if (countdown === 5) {
+  const timer = ["00:06"];
+  if (countdown === 6) {
+    timer.splice(0, 1, "00:06");
+  } else if (countdown === 5) {
     timer.splice(0, 1, "00:05");
   } else if (countdown === 4) {
     timer.splice(0, 1, "00:04");
@@ -85,7 +87,7 @@ function Auction({
     <section className="container1" id="container1">
       <section className="auctionProps" id="auctionProps">
         <p className="step" id="step">
-          step: {step}
+          шаг: {step}
         </p>
         <div className="teamName" id="teamName">
           {teamName}
@@ -94,7 +96,7 @@ function Auction({
           {timer[0]}
         </p>
         <p className="curPrice" id="price">
-          price: {curPrice}
+          цена: {curPrice}
         </p>
         <p id="alert" className="alertAni displayNone">
           Не достаточно денег!
