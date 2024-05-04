@@ -32,10 +32,10 @@ body {
   font-family: monospace;
   background-color: #303030;
   color: snow;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 main {
-  overflow-x: hidden;
-  /* overflow-y: hidden; */
   min-height: 100vh;
 }
