@@ -3,7 +3,7 @@
 /* TEAMCREATION */
 
 .teamCreation__section {
-  height: 1080px;
+  height: 100vh;
   background-image: url(./img/HeroImg.png);
   background-size: auto;
   background-position: center;

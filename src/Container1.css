@@ -1,17 +1,17 @@
 .container1,
 .wrapDefault,
 .containerWinner {
-  height: 1080px;
+  height: 100vh;
   position: relative;
   background-image: url(./img/garage_door2.webp);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: /* 1200px */ contain;
   background-position: center;
   /* background-color: lightblue; */
 
   display: grid;
-  grid-template-columns: 1fr 800px 1fr;
-  grid-template-rows: 1fr 1000px;
+  grid-template-columns: 20vw 60vw 20vw;
+  grid-template-rows: 10vh 90vh;
 }
 
 .container1 {
@@ -43,7 +43,7 @@
 
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 
   opacity: 0;
@@ -59,6 +59,15 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.team1,
+.team4 {
+  margin-top: 10vh;
+}
+
+.team3 {
+  margin-bottom: 5vh;
 }
 
 :is(.team1, .team2, .team3, .team4, .team5) section {
@@ -86,8 +95,8 @@
 .items,
 .itemsDefault {
   position: relative;
-  height: 1000px;
-  margin-bottom: 10rem;
+  height: 90vh;
+  /* margin-bottom: 10rem; */
 }
 
 .team4-5,
@@ -95,7 +104,7 @@
 .team4-5Winner {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 
   color: transparent;
@@ -121,6 +130,8 @@
 }
 
 #buttons {
+  margin-right: 8vw;
+  margin-bottom: 5vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -196,8 +207,8 @@
 
 .blenderSection {
   position: absolute;
-  top: 590px;
-  left: 240px;
+  top: 48vh;
+  left: 20vw;
 
   display: flex;
   justify-content: center;
@@ -219,8 +230,8 @@
 
 .coffeeSection {
   position: absolute;
-  top: 460px;
-  left: 480px;
+  top: 45vh;
+  left: 42vw;
 
   display: flex;
   justify-content: center;
@@ -240,8 +251,8 @@
 
 .icecreamSection {
   position: absolute;
-  top: 660px;
-  left: 70px;
+  top: 61vh;
+  left: 12vw;
 
   display: flex;
   justify-content: center;
@@ -263,8 +274,8 @@
 
 .juiceSection {
   position: absolute;
-  top: 480px;
-  left: 600px;
+  top: 45vh;
+  left: 47vw;
 
   display: flex;
   justify-content: center;
@@ -284,8 +295,8 @@
 
 .microwaveSection {
   position: absolute;
-  top: 530px;
-  left: 20px;
+  top: 45vh;
+  left: 6vw;
 
   display: flex;
   justify-content: center;
@@ -305,8 +316,8 @@
 
 .popcornSection {
   position: absolute;
-  top: 430px;
-  left: 320px;
+  top: 35vh;
+  left: 24vw;
   z-index: 1;
 
   display: flex;
@@ -326,8 +337,8 @@
 }
 .tosterSection {
   position: absolute;
-  top: 580px;
-  left: 420px;
+  top: 48vh;
+  left: 29vw;
 
   display: flex;
   justify-content: center;
