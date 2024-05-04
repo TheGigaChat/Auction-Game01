@@ -4,8 +4,8 @@
 
 .bagSection {
   position: absolute;
-  top: 460px;
-  left: 100px;
+  top: 39vh;
+  left: 18vw;
 
   display: flex;
   justify-content: center;
@@ -25,8 +25,8 @@
 
 .luggageSection {
   position: absolute;
-  top: 420px;
-  left: 450px;
+  top: 39vh;
+  left: 28vw;
 
   display: flex;
   justify-content: center;
@@ -46,8 +46,8 @@
 
 .newBalanceSection {
   position: absolute;
-  top: 600px;
-  left: 440px;
+  top: 61vh;
+  left: 28vw;
 
   display: flex;
   justify-content: center;
@@ -67,8 +67,8 @@
 
 .saintLaurentSection {
   position: absolute;
-  top: 550px;
-  left: 650px;
+  top: 46vh;
+  left: 42vw;
 
   display: flex;
   justify-content: center;
@@ -88,8 +88,8 @@
 
 .caramelSection {
   position: absolute;
-  top: 470px;
-  left: 650px;
+  top: 37vh;
+  left: 45vw;
 
   display: flex;
   justify-content: center;
@@ -109,8 +109,8 @@
 
 .sneakersSection {
   position: absolute;
-  top: 565px;
-  left: 250px;
+  top: 54vh;
+  left: 15vw;
 
   display: flex;
   justify-content: center;
@@ -130,8 +130,8 @@
 
 .glassesSection {
   position: absolute;
-  top: 700px;
-  left: 150px;
+  top: 63vh;
+  left: 7vw;
 
   display: flex;
   justify-content: center;
@@ -155,8 +155,8 @@
 
 .guitarSection {
   position: absolute;
-  top: 330px;
-  left: 150px;
+  top: 23vh;
+  left: 2vw;
 
   display: flex;
   justify-content: center;
@@ -176,8 +176,8 @@
 
 .audioSection {
   position: absolute;
-  top: 600px;
-  left: 20px;
+  top: 57vh;
+  left: 0vw;
 
   display: flex;
   justify-content: center;
@@ -197,8 +197,8 @@
 
 .drumsSection {
   position: absolute;
-  top: 370px;
-  left: 520px;
+  top: 27vh;
+  left: 31vw;
 
   display: flex;
   justify-content: center;
@@ -218,8 +218,8 @@
 
 .stringSection {
   position: absolute;
-  top: 360px;
-  left: 320px;
+  top: 25vh;
+  left: 22vw;
 
   display: flex;
   justify-content: center;
@@ -239,8 +239,8 @@
 
 .pianoSection {
   position: absolute;
-  top: 380px;
-  left: 110px;
+  top: 29vh;
+  left: 3vw;
 
   display: flex;
   justify-content: center;
@@ -281,8 +281,8 @@
 
 .lightSection {
   position: absolute;
-  top: 620px;
-  left: 400px;
+  top: 62vh;
+  left: 20vw;
 
   display: flex;
   justify-content: center;
@@ -306,8 +306,8 @@
 
 .cardioSection {
   position: absolute;
-  top: 270px;
-  left: 100px;
+  top: 18vh;
+  left: 3vw;
 
   display: flex;
   justify-content: center;
@@ -327,8 +327,8 @@
 
 .runSection {
   position: absolute;
-  top: 380px;
-  left: 310px;
+  top: 26vh;
+  left: 23vw;
 
   display: flex;
   justify-content: center;
@@ -348,8 +348,8 @@
 
 .dumbbellsSection {
   position: absolute;
-  top: 720px;
-  left: 570px;
+  top: 63vh;
+  left: 35vw;
 
   display: flex;
   justify-content: center;
@@ -371,8 +371,8 @@
 
 .benchSection {
   position: absolute;
-  top: 420px;
-  left: 600px;
+  top: 35vh;
+  left: 40vw;
 
   display: flex;
   justify-content: center;
@@ -392,8 +392,8 @@
 
 .gymSection {
   position: absolute;
-  top: 420px;
-  left: 40px;
+  top: 29vh;
+  left: 3vw;
 
   display: flex;
   justify-content: center;
@@ -415,8 +415,8 @@
 
 .ballSection {
   position: absolute;
-  top: 580px;
-  left: -20px;
+  top: 56vh;
+  left: -2vw;
 
   display: flex;
   justify-content: center;
@@ -436,8 +436,8 @@
 
 .barbellSection {
   position: absolute;
-  top: 660px;
-  left: -150px;
+  top: 58vh;
+  left: -7vw;
 
   display: flex;
   justify-content: center;
