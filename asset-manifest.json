@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Auction-Game01/static/css/main.1906a66c.css",
+    "main.css": "/Auction-Game01/static/css/main.dd8b57df.css",
     "main.js": "/Auction-Game01/static/js/main.974fd8e3.js",
     "static/media/HeroImg.png": "/Auction-Game01/static/media/HeroImg.2b88c4819e8501047ba6.png",
     "static/media/garage_door1.png": "/Auction-Game01/static/media/garage_door1.1f5d82eba48dd6492c54.png",
@@ -109,11 +109,11 @@
     "static/media/electricScooter.png": "/Auction-Game01/static/media/electricScooter.335003e967f664036993.png",
     "static/media/garage_door2.webp": "/Auction-Game01/static/media/garage_door2.a717029baa1ca24c3168.webp",
     "index.html": "/Auction-Game01/index.html",
-    "main.1906a66c.css.map": "/Auction-Game01/static/css/main.1906a66c.css.map",
+    "main.dd8b57df.css.map": "/Auction-Game01/static/css/main.dd8b57df.css.map",
     "main.974fd8e3.js.map": "/Auction-Game01/static/js/main.974fd8e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1906a66c.css",
+    "static/css/main.dd8b57df.css",
     "static/js/main.974fd8e3.js"
   ]
 }
