@@ -32,7 +32,7 @@ function Description({ containerNum, setEnd }) {
   return (
     <section
       style={{
-        height: 800,
+        height: 600,
         width: 900,
         backgroundColor: "transparent",
         display: "flex",

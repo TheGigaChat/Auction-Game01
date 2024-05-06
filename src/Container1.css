@@ -251,7 +251,7 @@
 
 .icecreamSection {
   position: absolute;
-  top: 61vh;
+  top: 57vh;
   left: 12vw;
 
   display: flex;
@@ -274,7 +274,7 @@
 
 .juiceSection {
   position: absolute;
-  top: 45vh;
+  top: 43vh;
   left: 47vw;
 
   display: flex;
@@ -316,7 +316,7 @@
 
 .popcornSection {
   position: absolute;
-  top: 35vh;
+  top: 33vh;
   left: 24vw;
   z-index: 1;
 
@@ -337,7 +337,7 @@
 }
 .tosterSection {
   position: absolute;
-  top: 48vh;
+  top: 50vh;
   left: 29vw;
 
   display: flex;

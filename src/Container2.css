@@ -155,7 +155,7 @@
 
 .guitarSection {
   position: absolute;
-  top: 26vh;
+  top: 20vh;
   left: 5vw;
 
   display: flex;
@@ -176,7 +176,7 @@
 
 .audioSection {
   position: absolute;
-  top: 57vh;
+  top: 54vh;
   left: 4vw;
 
   display: flex;
@@ -197,7 +197,7 @@
 
 .drumsSection {
   position: absolute;
-  top: 31vh;
+  top: 26vh;
   left: 34vw;
 
   display: flex;
@@ -218,7 +218,7 @@
 
 .stringSection {
   position: absolute;
-  top: 30vh;
+  top: 23vh;
   left: 22vw;
 
   display: flex;
@@ -239,7 +239,7 @@
 
 .pianoSection {
   position: absolute;
-  top: 32vh;
+  top: 30vh;
   left: 6vw;
 
   display: flex;
@@ -260,8 +260,8 @@
 
 .midiSection {
   position: absolute;
-  top: 770px;
-  left: 500px;
+  top: 70vh;
+  left: 26vw;
 
   display: flex;
   justify-content: center;
@@ -281,7 +281,7 @@
 
 .lightSection {
   position: absolute;
-  top: 62vh;
+  top: 65vh;
   left: 17vw;
 
   display: flex;
@@ -304,15 +304,38 @@
 /* container4 */
 /* container4 */
 
+.ballSection {
+  position: absolute;
+  top: 48vh;
+  left: 4vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ballSection img,
+#ballImg {
+  width: 110px;
+}
+
+:where(.ballSection p) {
+  color: transparent;
+  font-size: 3rem;
+}
+
 .cardioSection {
   position: absolute;
-  top: 22vh;
+  top: 16vh;
   left: 3vw;
 
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+
+  z-index: 1;
 }
 
 .cardioSection img,
@@ -327,7 +350,7 @@
 
 .runSection {
   position: absolute;
-  top: 31vh;
+  top: 25vh;
   left: 23vw;
 
   display: flex;
@@ -348,7 +371,7 @@
 
 .dumbbellsSection {
   position: absolute;
-  top: 65vh;
+  top: 63vh;
   left: 35vw;
 
   display: flex;
@@ -371,7 +394,7 @@
 
 .benchSection {
   position: absolute;
-  top: 35vh;
+  top: 32vh;
   left: 39vw;
 
   display: flex;
@@ -392,7 +415,7 @@
 
 .gymSection {
   position: absolute;
-  top: 32vh;
+  top: 27vh;
   left: 6vw;
 
   display: flex;
@@ -413,30 +436,9 @@
   font-size: 3rem;
 }
 
-.ballSection {
-  position: absolute;
-  top: 59vh;
-  left: 2vw;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.ballSection img,
-#ballImg {
-  width: 110px;
-}
-
-:where(.ballSection p) {
-  color: transparent;
-  font-size: 3rem;
-}
-
 .barbellSection {
   position: absolute;
-  top: 59vh;
+  top: 57vh;
   left: -4vw;
 
   display: flex;
@@ -620,8 +622,8 @@
 
 .babyChairSection {
   position: absolute;
-  top: 33vh;
-  left: -2vw;
+  top: 30vh;
+  left: -4vw;
 
   display: flex;
   justify-content: center;
@@ -641,7 +643,7 @@
 
 .babyBathSection {
   position: absolute;
-  top: 37vh;
+  top: 34vh;
   left: 34vw;
 
   display: flex;
@@ -662,7 +664,7 @@
 
 .babyCarSection {
   position: absolute;
-  top: 35vh;
+  top: 27vh;
   left: 13vw;
 
   display: flex;
@@ -683,8 +685,8 @@
 
 .babyTrendSection {
   position: absolute;
-  top: 43vh;
-  left: -1vw;
+  top: 42vh;
+  left: -3vw;
 
   display: flex;
   justify-content: center;
@@ -725,8 +727,8 @@
 
 .duploSection {
   position: absolute;
-  top: 55vh;
-  left: 48vw;
+  top: 54vh;
+  left: 54vw;
 
   display: flex;
   justify-content: center;
@@ -748,8 +750,8 @@
 
 .raceCarSection {
   position: absolute;
-  top: 71vh;
-  left: 14vw;
+  top: 72vh;
+  left: 15vw;
 
   display: flex;
   justify-content: center;
@@ -773,7 +775,7 @@
 
 .antiquePaintSection {
   position: absolute;
-  top: 36vh;
+  top: 30vh;
   left: 2vw;
 
   display: flex;
@@ -817,7 +819,7 @@
 
 .antiqueClockSection {
   position: absolute;
-  top: 26vh;
+  top: 20vh;
   left: 20vw;
 
   display: flex;
@@ -972,8 +974,8 @@
 
 .christmasTreeSection {
   position: absolute;
-  top: 16.7vh;
-  left: 15vw;
+  top: 13vh;
+  left: 13vw;
 
   display: flex;
   justify-content: center;
@@ -1081,7 +1083,7 @@
 
 .huntingGunSection {
   position: absolute;
-  top: 33vh;
+  top: 28vh;
   left: 6vw;
 
   display: flex;
@@ -1102,8 +1104,8 @@
 
 .tentSection {
   position: absolute;
-  top: 14vh;
-  left: 8vw;
+  top: 4vh;
+  left: 5vw;
 
   display: flex;
   justify-content: center;
@@ -1144,8 +1146,8 @@
 
 .satteliteComunicatorSection {
   position: absolute;
-  top: 61vh;
-  left: 19vw;
+  top: 60vh;
+  left: 21vw;
 
   display: flex;
   justify-content: center;
@@ -1296,7 +1298,7 @@
 
 .markerBoardSection {
   position: absolute;
-  top: 24vh;
+  top: 20vh;
   left: 10vw;
 
   display: flex;
@@ -1360,7 +1362,7 @@
 
 .wifiRuuterSection {
   position: absolute;
-  top: 42vh;
+  top: 44vh;
   left: 32vw;
 
   display: flex;
@@ -1385,7 +1387,7 @@
 
 .oldMirrorSection {
   position: absolute;
-  top: 44vh;
+  top: 41vh;
   left: 13vw;
 
   display: flex;
@@ -1406,8 +1408,8 @@
 
 .oldBedSection {
   position: absolute;
-  top: 27vh;
-  left: 23vw;
+  top: 24vh;
+  left: 22vw;
 
   display: flex;
   justify-content: center;
@@ -1427,8 +1429,8 @@
 
 .oldWardrobeSection {
   position: absolute;
-  top: 16vh;
-  left: 33vw;
+  top: 7vh;
+  left: 30vw;
 
   display: flex;
   justify-content: center;
@@ -1450,8 +1452,8 @@
 
 .oldKummutSection {
   position: absolute;
-  top: 43vh;
-  left: -4vw;
+  top: 41vh;
+  left: -6vw;
 
   display: flex;
   justify-content: center;
@@ -1492,7 +1494,7 @@
 
 .oldChairSection {
   position: absolute;
-  top: 38vh;
+  top: 35vh;
   left: 11vw;
 
   display: flex;
@@ -1503,7 +1505,7 @@
 
 .oldChairSection img,
 #oldChairImg {
-  width: 500px;
+  width: 470px;
 }
 
 :where(.oldChairSection p) {
@@ -1513,7 +1515,7 @@
 
 .oldTableSection {
   position: absolute;
-  top: 39vh;
+  top: 35vh;
   left: -1vw;
 
   display: flex;
@@ -1538,8 +1540,8 @@
 
 .motoHerculesSection {
   position: absolute;
-  top: 15vh;
-  left: 12vw;
+  top: 8vh;
+  left: 8vw;
 
   display: flex;
   justify-content: center;
@@ -1559,8 +1561,8 @@
 
 .motoCoverSection {
   position: absolute;
-  top: 12vh;
-  left: 12vw;
+  top: 4vh;
+  left: 8vw;
 
   display: flex;
   justify-content: center;
@@ -1581,7 +1583,7 @@
 
 .helmetSection {
   position: absolute;
-  top: 65vh;
+  top: 64vh;
   left: 14vw;
 
   display: flex;
@@ -1603,8 +1605,8 @@
 
 .motoJacketSection {
   position: absolute;
-  top: 39vh;
-  left: 47vw;
+  top: 36vh;
+  left: 49vw;
 
   display: flex;
   justify-content: center;
@@ -1626,7 +1628,7 @@
 
 .motoClovesSection {
   position: absolute;
-  top: 66vh;
+  top: 65vh;
   left: 29vw;
 
   display: flex;
@@ -1647,8 +1649,8 @@
 
 .motoEngineSection {
   position: absolute;
-  top: 55vh;
-  left: -1vw;
+  top: 53vh;
+  left: -4vw;
 
   display: flex;
   justify-content: center;
@@ -1673,14 +1675,15 @@
 
 .massageChairSection {
   position: absolute;
-  top: 35vh;
-  left: 40vw;
+  top: 28vh;
+  left: 39vw;
 
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 
+  transform: skew(-5deg);
   z-index: 4;
 }
 
@@ -1696,8 +1699,8 @@
 
 .cartSection {
   position: absolute;
-  top: 33vh;
-  left: 5vw;
+  top: 30vh;
+  left: 3vw;
 
   display: flex;
   justify-content: center;
@@ -1718,8 +1721,8 @@
 
 .gipsSection {
   position: absolute;
-  top: 44vh;
-  left: 23vw;
+  top: 42vh;
+  left: 21vw;
 
   display: flex;
   justify-content: center;
@@ -1739,8 +1742,8 @@
 
 .crpSection {
   position: absolute;
-  top: 40vh;
-  left: 33vw;
+  top: 37vh;
+  left: 31vw;
 
   display: flex;
   justify-content: center;
@@ -1760,7 +1763,7 @@
 
 .handleMassagerSection {
   position: absolute;
-  top: 65vh;
+  top: 63vh;
   left: 26vw;
 
   display: flex;
@@ -1782,7 +1785,7 @@
 
 .caneSection {
   position: absolute;
-  top: 27vh;
+  top: 19vh;
   left: 8vw;
 
   display: flex;
@@ -1803,8 +1806,8 @@
 
 .pulceSection {
   position: absolute;
-  top: 68vh;
-  left: 0vw;
+  top: 65vh;
+  left: -3vw;
 
   display: flex;
   justify-content: center;
@@ -1829,7 +1832,7 @@
 
 .houseCoolerSection {
   position: absolute;
-  top: 36vh;
+  top: 32vh;
   left: 40vw;
 
   display: flex;
@@ -1850,8 +1853,8 @@
 
 .houseRefrigeratorSection {
   position: absolute;
-  top: 5vh;
-  left: 6vw;
+  top: 0vh;
+  left: 3vw;
 
   display: flex;
   justify-content: center;
@@ -1871,8 +1874,8 @@
 
 .houseTVSection {
   position: absolute;
-  top: 32vh;
-  left: 8vw;
+  top: 28vh;
+  left: 5vw;
 
   display: flex;
   justify-content: center;
@@ -1892,8 +1895,8 @@
 
 .houseCoffeeSection {
   position: absolute;
-  top: 60vh;
-  left: 8vw;
+  top: 56vh;
+  left: 4vw;
 
   display: flex;
   justify-content: center;
@@ -1913,7 +1916,7 @@
 
 .houseKnifeSection {
   position: absolute;
-  top: 58vh;
+  top: 55vh;
   left: 13vw;
 
   display: flex;
@@ -1934,8 +1937,8 @@
 
 .houseRobotSection {
   position: absolute;
-  top: 58vh;
-  left: 32vw;
+  top: 57vh;
+  left: 33vw;
 
   display: flex;
   justify-content: center;
@@ -1959,7 +1962,7 @@
 
 .maximaRefSection {
   position: absolute;
-  top: 26vh;
+  top: 22vh;
   left: 36vw;
 
   display: flex;
@@ -1980,7 +1983,7 @@
 
 .IceCubeMakerSection {
   position: absolute;
-  top: 33vh;
+  top: 29vh;
   left: 7vw;
 
   display: flex;
@@ -2001,7 +2004,7 @@
 
 .frySection {
   position: absolute;
-  top: 36vh;
+  top: 32vh;
   left: 23vw;
 
   display: flex;
@@ -2022,7 +2025,7 @@
 
 .donutMakerSection {
   position: absolute;
-  top: 42vh;
+  top: 38vh;
   left: 42vw;
 
   display: flex;
